@@ -51,13 +51,13 @@ SM4 是由中国国家密码管理局制定的对称分组加密算法，广泛�
 | `T-Table+SIMD.c` | 100      | 100      |
 
 **Origin**：
-![alt text](./result/Origin.png)
+![alt text](./Result/Origin.png)
 
 **Unroll**：
-![alt text](./result/Unroll.png)
+![alt text](./Result/Unroll.png)
 
 **SIMD**：
-![alt text](./result/SIMD.png)
+![alt text](./Result/SIMD.png)
 
 **T-Table+SIMD**：
-![alt text](./result/T-Table+SIMD.png)
+![alt text](./Result/T-Table+SIMD.png)
